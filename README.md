@@ -1,4 +1,2 @@
-# yadssRepo
-repo pkl
-
-percobaan ke dua
+#Repository
+ini adalah repository yang saya buat sebagai media pembelajaran koneksifitas repository gitHub dan git. 
